@@ -1,0 +1,19 @@
+{
+  "paciente_id": "P001",
+  "consulta_id": "C001",
+  "pe": "direito",
+  "localizacao": "regiao_plantar",
+  "medidas_manuais": {
+    "comprimento_cm": 3.0,
+    "largura_cm": 2.0,
+    "profundidade": "subcutaneo"
+  },
+  "caracteristicas_visuais": {
+    "granulacao": "presente",
+    "esfacelo": "ausente",
+    "necrose": "ausente",
+    "calosidade": "presente",
+    "exsudato": "presente"
+  },
+  "observacoes": ""
+}

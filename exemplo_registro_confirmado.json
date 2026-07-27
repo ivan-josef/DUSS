@@ -1,0 +1,25 @@
+{
+  "patient_id": "P001",
+  "visit_id": "C001",
+  "status_revisao_medica": "confirmado",
+  "recorte_classificador": "/caminho/para/resultados_ulceras/recortes_classificador/ferida_001.png",
+  "avaliacao_enfermeira": {
+    "caracteristicas_visuais": {
+      "granulacao": "presente",
+      "esfacelo": "ausente",
+      "necrose": "presente",
+      "calosidade": "ausente",
+      "exsudato": "presente"
+    }
+  },
+  "confirmacao_medica": {
+    "status": "confirmado",
+    "caracteristicas_visuais": {
+      "granulacao": "presente",
+      "esfacelo": "ausente",
+      "necrose": "ausente",
+      "calosidade": "presente",
+      "exsudato": "presente"
+    }
+  }
+}
