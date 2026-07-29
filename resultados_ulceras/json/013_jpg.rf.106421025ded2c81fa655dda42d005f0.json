@@ -1,0 +1,31 @@
+{
+  "imagem": "013_jpg.rf.106421025ded2c81fa655dda42d005f0.jpg",
+  "modelo": "RF-DETR-Seg-Medium",
+  "confianca": 0.8745,
+  "deteccoes": [
+    {
+      "numero": 1,
+      "confianca": 0.8745
+    }
+  ],
+  "dados_enfermeira": null,
+  "medidas": {
+    "area_px": 24459,
+    "perimetro_px": 601.57,
+    "comprimento_px": 196.72,
+    "largura_px": 160.18,
+    "pixels_por_cm": 125.0,
+    "area_cm2": 1.57,
+    "perimetro_cm": 4.81,
+    "comprimento_cm": 1.57,
+    "largura_cm": 1.28
+  },
+  "comparacao_enfermeira": null,
+  "arquivos": {
+    "original": "originais/013_jpg.rf.106421025ded2c81fa655dda42d005f0.jpg",
+    "mascara_original": "mascaras_originais/013_jpg.rf.106421025ded2c81fa655dda42d005f0.png",
+    "mascara_processada": "mascaras_processadas/013_jpg.rf.106421025ded2c81fa655dda42d005f0.png",
+    "overlay": "overlays/013_jpg.rf.106421025ded2c81fa655dda42d005f0.png",
+    "todas_deteccoes": "todas_deteccoes/013_jpg.rf.106421025ded2c81fa655dda42d005f0.png"
+  }
+}
